@@ -147,7 +147,7 @@
             Controls.Add(lbtobeCompared);
             Controls.Add(lbNewKeys);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Json Comparator";
             ResumeLayout(false);
             PerformLayout();
         }
